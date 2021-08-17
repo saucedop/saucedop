@@ -5,7 +5,7 @@
 
 thanks for visiting my github, here are a few things about me:
 
-- 🔭 I’m currently working on projects to enhance skills JavaScript, Python and C#
+- 🔭 I’m currently working on projects to enhance my skills with JavaScript, Python and C#
 - 🌱 I’m currently focusing on growth as a backend developer
 - 👯 I’m looking to collaborate on web, game or mobile apps
 - ⚡ Fun fact: I enjoy learning new languages
