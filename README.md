@@ -3,7 +3,7 @@
 <!--
 **saucedop/saucedop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Hello, thanks for visiting my github, here are a few things about me:
+thanks for visiting my github, here are a few things about me:
 
 - 🔭 I’m currently working on projects to enhance skills JavaScript, Python and C#
 - 🌱 I’m currently focusing on growth as a backend developer
